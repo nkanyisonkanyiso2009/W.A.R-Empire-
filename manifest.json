@@ -1,1 +1,19 @@
-
+{
+  "name": "W.A.R. EMPIRE",
+  "short_name": "W.A.R.",
+  "description": "Manual Gold Market Analysis Assistant",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#080808",
+  "theme_color": "#D4AF37",
+  "icons": [
+    {
+      "src": "war-icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
